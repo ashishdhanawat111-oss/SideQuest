@@ -64,7 +64,7 @@ AI verification is experimental. The model may occasionally make incorrect judgm
 **1. Clone the repository**
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/ashishdhanawat111-oss/SideQuest.git
 cd SideQuest
 ```
 
